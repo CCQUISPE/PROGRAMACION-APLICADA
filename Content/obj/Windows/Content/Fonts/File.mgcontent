@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/cami_/OneDrive/Escritorio/tp 2019 MONOGAME/CruzaCruza - Final PA/CruzaCruza/CruzaCruza/Content/Fonts/File.spritefont</SourceFile>
+  <SourceTime>2019-12-15T13:36:24-03:00</SourceTime>
+  <DestFile>C:/Users/cami_/OneDrive/Escritorio/tp 2019 MONOGAME/CruzaCruza - Final PA/CruzaCruza/CruzaCruza/Content/bin/Windows/Content/Fonts/File.xnb</DestFile>
+  <DestTime>2020-08-12T15:50:16.8642726-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2019-12-15T13:36:42-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2019-12-15T13:36:42-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
